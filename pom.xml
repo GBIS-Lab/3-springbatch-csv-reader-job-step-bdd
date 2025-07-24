@@ -8,7 +8,7 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nemezyx</groupId>
+	<groupId>com</groupId>
 	<artifactId>smartphonecsv</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SmartphoneBatch</name>
